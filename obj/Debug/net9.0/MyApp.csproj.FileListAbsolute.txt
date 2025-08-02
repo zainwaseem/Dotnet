@@ -30,3 +30,4 @@
 /Users/zm/Desktop/SSH/MyApp/obj/Debug/net9.0/MyApp.pdb
 /Users/zm/Desktop/SSH/MyApp/obj/Debug/net9.0/MyApp.genruntimeconfig.cache
 /Users/zm/Desktop/SSH/MyApp/obj/Debug/net9.0/ref/MyApp.dll
+/Users/zm/Desktop/SSH/MyApp/obj/Debug/net9.0/MyApp.sourcelink.json
