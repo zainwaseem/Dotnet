@@ -20,8 +20,8 @@ jobs:
 
       - name: Publish API
         run: |
-          dotnet restore ./backend
-          dotnet publish ./backend -c Release -o published
+          dotnet restore
+          dotnet publish -c Release -o published
 
       - name: Copy published files to EC2
         uses: appleboy/scp-action@v0.1.7
